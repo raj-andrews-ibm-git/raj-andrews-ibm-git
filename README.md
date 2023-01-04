@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raj-andrews-ibm-git
 - 👀 I’m interested in Cloud Computing; specifically Redhat OpenShift and IBM Cloud
 - 🌱 I’m currently learning OpenShift
-- 💞️ I’m looking to collaborate on Containerzation
+- 💞️ I’m looking to collaborate on Containerization
 - 📫 How to reach me raj.andrews@ibm.com
 
 <!---
